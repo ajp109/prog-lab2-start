@@ -1,7 +1,9 @@
 #include "mbed.h"
 
 int main() {
-    while (true) {
-        sleep();
-    }
+    
+    // Your code should go here
+    
+    // Do nothing, forever, when the program is complete
+    while (true) sleep();
 }
